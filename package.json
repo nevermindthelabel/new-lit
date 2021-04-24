@@ -1,0 +1,23 @@
+{
+  "name": "new-lit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevermindthelabel/new-lit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nevermindthelabel/new-lit/issues"
+  },
+  "homepage": "https://github.com/nevermindthelabel/new-lit#readme",
+  "dependencies": {
+    "lit": "^2.0.0-rc.1"
+  }
+}
