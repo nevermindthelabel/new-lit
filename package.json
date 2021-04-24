@@ -19,5 +19,8 @@
   "homepage": "https://github.com/nevermindthelabel/new-lit#readme",
   "dependencies": {
     "lit": "^2.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.16"
   }
 }
